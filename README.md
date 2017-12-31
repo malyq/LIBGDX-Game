@@ -14,4 +14,10 @@ into the Android folder under "assets", even when you want to run the game under
 Thus I included it, but the bulk of the code I wrote is under /core/src/ and I tested it using the Desktop
 application.
 
+The game is a simple one that involves bars moving up the screen and the user trying to keep falling so as to 
+avoid the top of the screen. The project demonstrated use of a camera to simulate vertical movement, movement from
+one side of the screen to the other, GUI elements for menu interactions, lots of collision detection, and much more.
+
+
+
 -Malyq
